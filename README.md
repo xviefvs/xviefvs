@@ -2,7 +2,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=xviefvs&count_private=true&theme=react&count_private=true&show_icons=true&include_all_commits=true)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xviefvs&repo=enma&theme=react&show_owner=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xviefvs&langs_count=8&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xviefvs&langs_count=8&theme=react)
 
 <!--
 **xviefvs/xviefvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

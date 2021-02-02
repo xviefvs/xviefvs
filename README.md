@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=xviefvs&count_private=true&theme=react&count_private=true&show_icons=true&include_all_commits=true)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xviefvs&repo=enma&theme=react&show_owner=true)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=xviefvs&count_private=true&theme=react&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/xviefvs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xviefvs&repo=enma&theme=react&show_owner=true)](https://github.com/xviefvs/enma)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xviefvs&layout=compact&theme=react)](https://github.com/xviefvs/xviefvs)
 
 <!--
